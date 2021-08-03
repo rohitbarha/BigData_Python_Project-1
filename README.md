@@ -12,9 +12,13 @@ By: Rohit Barha
 ## PROBLEM STATEMENT
 
 1.Which English wikipedia article got the most traffic on January 20, 2021?
+
 2.What English wikipedia article has the highest views of its readers follow an internal link to another wikipedia article?
+
 3.What series of wikipedia articles, starting with Hotel California, keeps the highest views of its readers clicking on internal links.
+
 4.Find an example of an English wikipedia article that is relatively more popular in the Americas than elsewhere.There is no location data associated with the wikipedia pageviews data, but there are timestamps.
+
 5.Find which device(PC or Mobile) generates the most traffic on the English Wikipedia article?
 
 ## TECHNOLOGIES USED
