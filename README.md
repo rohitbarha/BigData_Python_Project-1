@@ -29,3 +29,9 @@ By: Rohit Barha
 * Hive
 * MapReduce
 * Yarn
+
+## DATASET USED
+
+[https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews)
+
+[https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
